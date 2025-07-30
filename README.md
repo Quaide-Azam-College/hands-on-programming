@@ -37,6 +37,14 @@ Welcome to the task repository under our GitHub organization. This repository is
 
 ---
 
+## ⚠️ Strict Policy on AI-Generated Code
+
+> 🚫 **IMPORTANT: If any student's code is found to be written by an AI tool (like ChatGPT, Copilot, etc.) and not by the student themselves, it will be immediately deleted from GitHub. That student will also be permanently removed from our GitHub organization and Discord server, with no chance of rejoining in the future.**
+
+This project is meant for your personal learning. Please take it seriously and write your own code. I'm here to guide and support your efforts — not to watch you copy.
+
+---
+
 ## 💡 Tips
 
 - Ask questions under the issue if you don’t understand something.
